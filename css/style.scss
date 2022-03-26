@@ -15,7 +15,7 @@ body {
 
 /*global vars */
 
-$mainBg: #e1391e;
+$mainBg: #009688;
 
 /*global classes */
 
@@ -120,7 +120,7 @@ $mainBg: #e1391e;
   .header {
     display: flex;
     align-items: center;
-    background-color: #000;
+    background-color: #08467b;
     padding: 8px;
     border-radius: 8px;
     box-shadow: 0 0 10px #000;
@@ -154,7 +154,7 @@ $mainBg: #e1391e;
     }
   }
   .bio {
-    background-color: #fc2126;
+    background-color: #074c10;
     p {
       line-height: 28px;
       font-size: 18px;
@@ -166,7 +166,7 @@ $mainBg: #e1391e;
 
 .right{
     .skills{
-        background-color: #fc9f21;
+        background-color: #08467b24;
         ul{
             padding-inline-start: 40px;
             li{
@@ -179,7 +179,7 @@ $mainBg: #e1391e;
         }
     }
     .exp{
-        background-color: #e1721e;
+        background-color: #018b86;
         div{
             margin-bottom: 12px;
             h4{
@@ -194,10 +194,10 @@ $mainBg: #e1391e;
         }
     }
     .recommendations{
-      background-color: #c8721e;
+      background-color: #018b86;
     }
     .media{
-      background-color: #fc9f21;
+      background-color: #018b86;
       audio{
         width: 100%;
       }

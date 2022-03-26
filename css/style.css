@@ -85,7 +85,7 @@ body {
       margin-bottom: 8px; } }
 
 .cv {
-  background-color: #e1391e;
+  background-color: #009688;
   padding: 15px; }
   .cv h1 {
     font-size: 34px;
@@ -98,7 +98,7 @@ body {
 .left .header {
   display: flex;
   align-items: center;
-  background-color: #000;
+  background-color: #08467b;
   padding: 8px;
   border-radius: 8px;
   box-shadow: 0 0 10px #000;
@@ -126,13 +126,13 @@ body {
       .left .header .info a {
         font-size: 14px; } }
 .left .bio {
-  background-color: #fc2126; }
+  background-color: #074c10; }
   .left .bio p {
     line-height: 28px;
     font-size: 18px; }
 
 .right .skills {
-  background-color: #fc9f21; }
+  background-color: #08467b24; }
   .right .skills ul {
     padding-inline-start: 40px; }
     .right .skills ul li {
@@ -141,7 +141,7 @@ body {
         text-decoration: underline;
         color: #fff; }
 .right .exp {
-  background-color: #e1721e; }
+  background-color: #018b86; }
   .right .exp div {
     margin-bottom: 12px; }
     .right .exp div h4 {
@@ -151,9 +151,9 @@ body {
       font-weight: 300;
       font-style: italic; }
 .right .recommendations {
-  background-color: #c8721e; }
+  background-color: #018b86; }
 .right .media {
-  background-color: #fc9f21; }
+  background-color: #018b86; }
   .right .media audio {
     width: 100%; }
 
